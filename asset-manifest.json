@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geolocation_app/static/css/main.536621b2.css",
+    "main.js": "/geolocation_app/static/js/main.ac6c9edd.js",
+    "static/media/SouthernHemisphere.jpg": "/geolocation_app/static/media/SouthernHemisphere.d4da1c7acf6532072ee3.jpg",
+    "static/media/NorthernHemisphere.jpg": "/geolocation_app/static/media/NorthernHemisphere.7045e05bc2ec9cdc04a6.jpg",
+    "index.html": "/geolocation_app/index.html",
+    "main.536621b2.css.map": "/geolocation_app/static/css/main.536621b2.css.map",
+    "main.ac6c9edd.js.map": "/geolocation_app/static/js/main.ac6c9edd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.536621b2.css",
+    "static/js/main.ac6c9edd.js"
+  ]
+}
